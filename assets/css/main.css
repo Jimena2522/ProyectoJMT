@@ -3267,6 +3267,8 @@ input, select, textarea {
 		z-index: -2;
 	  }
 
+
+
 	 
 
 	#two2 {
@@ -3339,3 +3341,5 @@ input, select, textarea {
 	#DOS .content {
 		flex: 1; /* El contenido debe ocupar todo el espacio disponible */
 	}
+	
+	
